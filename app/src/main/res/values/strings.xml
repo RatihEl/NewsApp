@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">NewsApp</string>
+    <string name="txt_date">1 April 2021</string>
+    <string name="image">Image</string>
+    <string name="dummy_title">Ratih Eldina Mobile developer dari desa sirongge</string>
+    <string name="author_dummy">Ghozi fata ulwan</string>
+    <string name="all">All</string>
+    <string name="information">Information</string>
+    <string name="magazine">Magazine</string>
+    <string name="media">Media</string>
+    <string name="bussines">Bussines</string>
+    <string name="international">International</string>
+    <string name="breaking_news">Breaking News</string>
+    <string name="content_desc">A search is underway after suspected debris from an Indonesian Sriwijaya Air flight was found hours after the plane went missing. The plane lost contact after taking off from Indonesian capital Jakarta on Saturday en route to the city of Pontianak in West Kalimantan province. The Boeing 737-500 flight was carrying 62 people.The 50 passengers included seven children and three babies.</string>
+
+
+
+</resources>
